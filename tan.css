@@ -8,15 +8,15 @@
 .ge{
     width: 20px;
     height: 20px;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
+    //border-right: 1px solid black;
+    //border-bottom: 1px solid black;
     float: left;
 }
-/*食物的样式*/
+/*脢鲁脦茂碌脛脩霉脢陆*/
 .shiwu{
     background-color: #000000;
 }
-/*虫子的样式*/
+/*鲁忙脳脫碌脛脩霉脢陆*/
 .chongzi{
     background-color: #776e65;
 }
