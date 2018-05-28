@@ -1,0 +1,25 @@
+#huabu{
+    width: 504px;
+    height: 502px;
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.ge{
+    width: 20px;
+    height: 20px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    float: left;
+}
+/*食物的样式*/
+.shiwu{
+    background-color: #000000;
+}
+/*虫子的样式*/
+.chongzi{
+    background-color: #776e65;
+}
+.head{
+    background-color: #00ccff;
+}
